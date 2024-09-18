@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+This Project is built on next 14 . So your nodeJS should be latest or above 18.7
+Install the dependencies: 
+```bash
+npm install
+```
 
 First, run the development server:
 
